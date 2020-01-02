@@ -1,4 +1,4 @@
-# Given the value n, print the following pattern till n rows
+### Given the value n, print the following pattern till n rows
 
 1
 
